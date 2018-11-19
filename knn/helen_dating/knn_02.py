@@ -257,5 +257,8 @@ def classify_person():
 
 
 if __name__ == '__main__':
+    # filename = 'datingTestSet.txt'
+    # dating_data_mat, dating_labels = file2matrix(filename)
+    # show_datas(dating_data_mat, dating_labels)
     # dating_class_test()
     classify_person()
